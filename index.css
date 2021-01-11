@@ -1,0 +1,29 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: pink;
+  height: 100vh;
+}
+
+.memory-game{
+  border: 5px solid red;
+}
+
+.memory-card{
+  border: 4px solid green;
+}
+
+.front-face{
+  border: 5px solid brown;
+}
+.back-face{
+  border:5px solid darkgray;
+}
+
+img{
+  width: 100px;
+}
